@@ -5,5 +5,8 @@
 # satTest files
 satTest*
 
-# text file
+# text files
 /test/*.txt
+
+# answer files
+/test/*/sudoku_ans_*.txt
