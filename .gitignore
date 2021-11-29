@@ -1,0 +1,9 @@
+# image files
+*.png
+*.jpg
+
+# satTest files
+satTest*
+
+# text file
+./test/*.txt
