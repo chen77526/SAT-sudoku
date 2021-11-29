@@ -19,4 +19,8 @@ make        #if modified, remember to make
 1. **c** for classic sudoku
 2. **h** for hyper sudoku
 3. **n** for nonomino sudoku
-<img src="https://imgur.com/GsxKipC.png" width=250> <img src="https://imgur.com/WWSokTz.png" width=250> <img src="https://imgur.com/GsxKipC.png" width=250>
+<p float="left">
+  <img src="https://imgur.com/GsxKipC.png" width=250>
+  <img src="https://imgur.com/WWSokTz.png" width=250>
+  <img src="https://imgur.com/GsxKipC.png" width=250>
+</p>
