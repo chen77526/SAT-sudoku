@@ -16,6 +16,7 @@ make        #if modified, remember to make
 ```
 ### Input format
 - These solver can solve 3 types of sudoku, the first line of input files specify the sudoku type
-1. **c** for classic sudoku [Imgur](https://i.imgur.com/IX1DSpl.png)
-2. **h** for hyper sudoku [Imgur](https://i.imgur.com/WWSokTz.png)
-3. **n** for nonomino sudoku [Imgur](https://i.imgur.com/GsxKipC.png)
+1. **c** for classic sudoku
+2. **h** for hyper sudoku
+3. **n** for nonomino sudoku
+<img src="https://imgur.com/GsxKipC.png" width=250> <img src="https://imgur.com/WWSokTz.png" width=250> <img src="https://imgur.com/GsxKipC.png" width=250>
