@@ -20,7 +20,7 @@ make        #if modified, remember to make
 2. **h** for hyper sudoku
 3. **n** for nonomino sudoku
 <p float="left">
-  <img src="https://imgur.com/IX1DSpl.png" width=250 hspace="20">
-  <img src="https://imgur.com/WWSokTz.png" width=250 hspace="20">
-  <img src="https://imgur.com/GsxKipC.png" width=250 hspace="20">
+  <img src="https://imgur.com/IX1DSpl.png" width=125 hspace="20">
+  <img src="https://imgur.com/WWSokTz.png" width=125 hspace="20">
+  <img src="https://imgur.com/GsxKipC.png" width=125 hspace="20">
 </p>
