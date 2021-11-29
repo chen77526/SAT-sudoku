@@ -8,14 +8,14 @@
 3. killer Sudoku [(killer sudoku game)](https://sudoku.com/killer)
 4. hyper Sudoku [(hyper sudoku game)](http://www.sudoku-space.com/hyper-sudoku/)
 ## Usage
-### command line
+### Command line
 ```
 cd test/
 make        #if modified, remember to make
 ./sudoku ./<type of sudoku>/sudoku_<type of sudoku>_<number>.txt
 ```
-### input format
+### Input format
 - These solver can solve 3 types of sudoku, the first line of input files specify the sudoku type
-1. **c** for classic sudoku
-2. **h** for hyper sudoku
-3. **n** for nonomino sudoku
+1. **c** for classic sudoku [Imgur](https://i.imgur.com/IX1DSpl.png)
+2. **h** for hyper sudoku [Imgur](https://i.imgur.com/WWSokTz.png)
+3. **n** for nonomino sudoku [Imgur](https://i.imgur.com/GsxKipC.png)
