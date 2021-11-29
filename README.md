@@ -1,5 +1,4 @@
 # Sudoku solver by MINISAT
----
 ## Something interesting about Sudoku
 - Classic 9*9 Sudoku has 6.67 * 10^21 solutions
 - Minimum of 17 clues are required to have a unique solution
@@ -8,7 +7,6 @@
   2. nonomino [(nonomino sudoku game)](https://www.sudoku-puzzles-online.com/irregular-sudoku/choose-a-grid.php)
   3. killer Sudoku [(killer sudoku game)](https://sudoku.com/killer)
   4. hyper Sudoku [(hyper sudoku game)](http://www.sudoku-space.com/hyper-sudoku/)
----
 ## Usage
 ### command line
 ```
