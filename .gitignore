@@ -6,4 +6,4 @@
 satTest*
 
 # text file
-./test/*.txt
+/test/*.txt
