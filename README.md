@@ -18,7 +18,7 @@ make        #if modified, remember to make
 - These solver can solve 3 types of sudoku, the first line of input files specify the sudoku type
 1. **c** for classic sudoku
 2. **h** for hyper sudoku
-3. **n** for nonomino sudoku (under the red line is the subblock information of this kund of sudoku)
+3. **n** for nonomino sudoku (the bottom half of 9*9 block is the subblock information of this kund of sudoku)
 <p float="left">
   <img src="https://imgur.com/I57Edz5.png" width=200 hspace="20">
   <img src="https://imgur.com/IRM5GMj.png" width=200 hspace="20">
